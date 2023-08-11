@@ -20,15 +20,15 @@ const presentation: Presentation = {
   socials: [
     {
       label: "X",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://twitter.com/scottsltr",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "LinkedIn",
+      link: "https://www.linkedin.com/in/scott-salter/",
     },
     {
-      label: "Github",
-      link: "https://github.com/MaeWolff",
+      label: "Instagram",
+      link: "https://www.instagram.com/scottsltr/",
     },
   ],
 };
